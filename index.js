@@ -1,5 +1,4 @@
 // Your code goes here
-console.log('dfdf')
 document.addEventListener("DOMContentLoaded", function() {
   console.log("The DOM has loaded");
 });
