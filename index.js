@@ -7,7 +7,6 @@ console.log(
   "This console.log() fires when index.js loads - before DOMContentLoaded is triggered"
 );
 
-let n = 10;
 for (let i=0; i<10; i++){
   console.log(i);
 }
