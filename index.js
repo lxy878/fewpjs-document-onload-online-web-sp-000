@@ -8,6 +8,6 @@ console.log(
 );
 
 let n = 10;
-for (let i of 10){
-  console.log(i)
+for (let i of n){
+  console.log(i);
 }
